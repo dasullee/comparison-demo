@@ -1,2 +1,2 @@
 # comparison-demo
-LFZ Module 1- samle code
+LFZ Module 1- sample code
